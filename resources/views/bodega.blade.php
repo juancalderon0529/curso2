@@ -7,7 +7,7 @@
     <!-- Agrega aquí cualquier CSS adicional si es necesario -->
 </head>
 <body>
-    <h1>Bienvenido a la Bodega</h1>
+    <h1> a la Bodega</h1>
     <!-- Aquí va el contenido de tu vista -->
 </body>
 </html>
